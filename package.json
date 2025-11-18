@@ -1,0 +1,19 @@
+{
+  "name": "puns-and-smurfs",
+  "version": "1.0.0",
+  "description": "CLI tools for colorful puns and smurf speak conversion",
+  "main": "pun.js",
+  "type": "module",
+  "scripts": {
+    "start": "node pun.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "puns.dev": "^1.1.0"
+  }
+}{
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "puns.dev": "^0.2.2"
+  }
+}
